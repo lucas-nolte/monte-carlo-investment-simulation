@@ -3,9 +3,9 @@ Monte Carlo simulation of long-term investment returns using Python.
 
 ## Overview
 
-This project simulates thousands of possible investment outcomes using a Monte Carlo simulation written in Python.
+This project simulates one-hundred possible investment outcomes using a Monte Carlo simulation written in Python.
 
-The simulation models investment growth using randomly generated annual returns based on an expected average return and standard deviation.
+The simulation models investment growth using randomly generated daily returns based on an expected average return and standard deviation.
 
 ## Technologies
 
