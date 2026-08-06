@@ -1,4 +1,4 @@
-# monte-carlo-investment-simulation
+# Monte Carlo Investment Simulation
 Monte Carlo simulation of long-term investment returns using Python.
 
 ## Overview
